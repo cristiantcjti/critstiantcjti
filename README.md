@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
 
+- 🤓 I've worked as a developer using **ADVPL and TL++**
+
 - 🌱 I’m currently learning **C/C++,Qt,Java,Python,PHP**
 
 - 👯 I’m looking to collaborate on **C++ projects**
