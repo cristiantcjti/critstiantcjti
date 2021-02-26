@@ -3,7 +3,7 @@
 
 - 🤓 I've worked as a developer using **ADVPL and TL++**
 
-- 🌱 I’m currently learning **C/C++,Qt,Java,Python,PHP**
+- 🌱 I’m currently learning **C#/C/C++,Python,**
 
 - 👯 I’m looking to collaborate on **C++ projects**
 
