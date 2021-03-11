@@ -3,9 +3,9 @@
 
 - 🤓 I've worked as a developer using **ADVPL and TL++**
 
-- 🌱 I’m currently learning **C#/C/C++,Python,**
+- 🌱 I’m currently learning **Python,Django,C#/C/C++**
 
-- 👯 I’m looking to collaborate on **C++ projects**
+- 👯 I’m looking to collaborate on **Python,C# projects**
 
 - 📫 How to reach me **cristiantcjti@gmail.com**
 
