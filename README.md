@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
 
-- 🤓 I've worked as a developer using **ADVPL and TL++**
+- 🤓 I've worked as a developer **Python developer**
 
-- 🌱 I’m currently learning **Python,Django,Flask,C#**
+- 🔄 I already worked as a **ADVPL developer**
 
-- 👯 I’m looking to collaborate on **Python,C# projects**
+- 🌱 I’m currently Studing **Data_Science**
 
-- 💬 Ask me about **ADVPL**
+- 👯 I’m looking to collaborate on **Python projects**
+
+- 💬 Ask me about **Python, Django, ADVPL and SQL**
 
 - 📫 How to reach me **cristiantcjti@gmail.com**
 
