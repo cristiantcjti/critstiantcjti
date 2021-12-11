@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
 
-- 🤓 I've worked as a developer **Python developer**
+- 🤓 I've worked as a **Python developer**
 
 - 🔄 I already worked as a **ADVPL developer**
 
-- 🌱 I’m currently Studing **Data_Science**
+- 🌱 I’m currently Studing **backend tools**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
