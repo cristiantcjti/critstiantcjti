@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
 
-- 🤓 I've worked as a **Python developer**
+- 🤓 I've been working as a **Python developer**
 
 - 🔄 I already worked as a **ADVPL developer**
 
